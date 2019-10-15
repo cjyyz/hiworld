@@ -3,6 +3,6 @@ public class HiWorld {
         System.out.println("Hi World!");
         System.out.println("hi again");
         System.out.println("nimadetou");
-
+        System.out.println("他妈的头");
     }
 }
